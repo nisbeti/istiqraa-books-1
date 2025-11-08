@@ -1,0 +1,32 @@
+[
+    {
+        "pageCount": 23,
+        "firstPageId": 1,
+        "lastPageId": 23,
+        "firstPage": null,
+        "lastPage": 24,
+        "partName": "مقدمة",
+        "partFolderName": "مقدمة",
+        "partPath": "1\/143\/143\/مقدمة"
+    },
+    {
+        "pageCount": 716,
+        "firstPageId": 24,
+        "lastPageId": 739,
+        "firstPage": 1,
+        "lastPage": 716,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "1\/143\/143\/001"
+    },
+    {
+        "pageCount": 669,
+        "firstPageId": 740,
+        "lastPageId": 1408,
+        "firstPage": 3,
+        "lastPage": 671,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "1\/143\/143\/002"
+    }
+]
