@@ -1,0 +1,52 @@
+[
+    {
+        "pageCount": 8,
+        "firstPageId": 1,
+        "lastPageId": 8,
+        "firstPage": 2,
+        "lastPage": 9,
+        "partName": "تقديم",
+        "partFolderName": "تقديم",
+        "partPath": "121\/4121\/تقديم"
+    },
+    {
+        "pageCount": 15,
+        "firstPageId": 9,
+        "lastPageId": 23,
+        "firstPage": 5,
+        "lastPage": 19,
+        "partName": "تصدير",
+        "partFolderName": "تصدير",
+        "partPath": "121\/4121\/تصدير"
+    },
+    {
+        "pageCount": 58,
+        "firstPageId": 24,
+        "lastPageId": 81,
+        "firstPage": 1,
+        "lastPage": 58,
+        "partName": "مقدمة",
+        "partFolderName": "مقدمة",
+        "partPath": "121\/4121\/مقدمة"
+    },
+    {
+        "pageCount": 935,
+        "firstPageId": 82,
+        "lastPageId": 1016,
+        "firstPage": 1,
+        "lastPage": 940,
+        "partName": "1",
+        "partFolderName": "001",
+        "partPath": "121\/4121\/001"
+    },
+    {
+        "pageCount": 1112,
+        "firstPageId": 1017,
+        "lastPageId": 2128,
+        "firstPage": 945,
+        "lastPage": 2056,
+        "partName": "2",
+        "partFolderName": "002",
+        "partPath": "121\/4121\/002"
+    }
+]
