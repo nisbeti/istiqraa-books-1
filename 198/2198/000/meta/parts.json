@@ -1,0 +1,22 @@
+[
+    {
+        "pageCount": 35,
+        "firstPageId": 1,
+        "lastPageId": 35,
+        "firstPage": null,
+        "lastPage": 35,
+        "partName": "تقديم",
+        "partFolderName": "تقديم",
+        "partPath": "198\/2198\/تقديم"
+    },
+    {
+        "pageCount": 156,
+        "firstPageId": 36,
+        "lastPageId": 191,
+        "firstPage": 1,
+        "lastPage": 200,
+        "partName": "الكتاب",
+        "partFolderName": "الكتاب",
+        "partPath": "198\/2198\/الكتاب"
+    }
+]
